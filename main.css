@@ -8,8 +8,9 @@
     flex: 1 0 auto;
   }
 
-.legislator-finder {
-  .input-field {
+.legislator-finder .input-field {
   	margin-top: 0px;
   }
+.btn {
+	margin-top: 10px;
 }
